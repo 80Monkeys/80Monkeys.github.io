@@ -14,7 +14,7 @@
     }
     header {
       background-color: #0073e6;
-      color: white;
+      color: black;
       padding: 2rem 0;
     }
     main {
