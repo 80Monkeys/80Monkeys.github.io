@@ -32,16 +32,16 @@
 </head>
 <body>
   <header>
-    <h1>Bienvenido a Mi Página Web</h1>
-    <p>Esta es una página web gratuita sin anuncios</p>
+    <h1>Bienvenido a 80 Monkeys</h1>
+    <p>En esta página encontraras muchas cosas</p>
   </header>
   <main>
     <h2>Sobre mí</h2>
-    <p>Hola, soy [Tu Nombre], y esta es mi página personal.</p>
+    <p>Hola, somos César y Lino, y esta es nuestra página.</p>
     <p>Puedes editar este texto para poner lo que tú quieras.</p>
   </main>
   <footer>
-    <p>&copy; 2025 Mi Página Web</p>
+    <p>&copy; 2025 Celis Grandez</p>
   </footer>
 </body>
 </html>
